@@ -28,6 +28,10 @@ The dashboard applies time-series analysis, categorical aggregation, and DAX-bas
 * Granularity: Hourly observations
 * Size: 842,015 records
 
+### Dataset Source
+
+The dataset used in this project is publicly available on [Kaggle – Air Quality Dataset (Indian Cities 2022–2025)](https://www.kaggle.com/datasets/bhautikvekariya21/air-quality-dataset-indian-cities-2022-2025).
+
 ### Data Scope
 
 * AQI standard used: **US AQI** (widely adopted in Indian AQI datasets)
